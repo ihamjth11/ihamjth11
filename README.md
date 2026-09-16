@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hamjath%20Here%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%26%20Cybersecurity%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+# Mohomad Hamjath
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Real+Products+%F0%9F%9A%80;Turning+Ideas+into+Deployed+Apps;Researching+AI+%2B+Human+Behaviour" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+Real+Products+%F0%9F%9A%80;Exploring+AI%2FML+%26+Cybersecurity" alt="Typing SVG" />
 
 <br/>
 
@@ -88,26 +88,12 @@ Python multi-agent system (Researcher, Matcher, Reporter) using Gemini API to fi
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ihamjth11&theme=dark&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ihamjth11&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamjth11&layout=compact&theme=dark&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihamjth11&theme=dark&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ihamjth11&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamjth11&layout=compact&theme=dark&hide_border=true" width="42%" />
 
 </div>
 
@@ -116,7 +102,5 @@ Python multi-agent system (Researcher, Matcher, Reporter) using Gemini API to fi
 <div align="center">
 
 💬 **Open to internships, freelance work, and full-stack opportunities**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 
 </div>
