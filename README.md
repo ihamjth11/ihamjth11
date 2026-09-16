@@ -1,8 +1,12 @@
 <div align="center">
 
-# Mohomad Hamjath
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+Real+Products+%F0%9F%9A%80;Exploring+AI%2FML+%26+Cybersecurity" alt="Typing SVG" />
+# MOHOMAD HAMJATH
+
+### Full-Stack Developer (MERN) · Building Real Products
+
+<img width="80" src="https://raw.githubusercontent.com/ihamjth11/ihamjth11/main/divider.svg" />
 
 <br/>
 
@@ -10,9 +14,11 @@
 <a href="https://hamjath-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:m.hamjath11@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
 
+<br/><br/>
+
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
@@ -92,12 +98,15 @@ Python multi-agent system (Researcher, Matcher, Reporter) using Gemini API to fi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ihamjth11&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamjth11&layout=compact&theme=dark&hide_border=true" width="42%" />
+<img src="https://img.shields.io/github/followers/ihamjth11?style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&labelColor=000000&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fihamjth11" />
+<img src="https://komarev.com/ghpvc/?username=ihamjth11&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
+
+---
 
 <div align="center">
 
