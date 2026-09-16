@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohomad+Hamjath;Full-Stack+Developer+(MERN);Building+Real+Products+%F0%9F%9A%80;AI%2FML+%26+Cybersecurity+Explorer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hamjath%20Here%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%26%20Cybersecurity%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Real+Products+%F0%9F%9A%80;Turning+Ideas+into+Deployed+Apps;Researching+AI+%2B+Human+Behaviour" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hamjath11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://hamjath-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/hamjath11"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+<a href="https://hamjath-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:m.hamjath11@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+
 </div>
 
 <br/>
@@ -15,34 +18,51 @@
 
 I'm a **Full-Stack Developer (MERN)** who turns ideas into real, deployed products used by real people. Currently a Software Engineering undergrad, growing into **AI/ML Engineering**, **Cybersecurity**, and understanding the human side of tech through **Psychology & Neuroscience**.
 
-- 🔭 Currently building a **Multi-Agent AI System** (Python + Gemini API)
-- 🔬 Researching **South Asian Cognitive Vulnerability to AI Social Engineering Attacks**
-- 🌱 Learning: AI/ML • Cybersecurity • Cloud • Next.js
-- 📍 Based in Sri Lanka
+```text
+🔭 Currently building   → Multi-Agent AI System (Python + Gemini API)
+🔬 Researching           → South Asian Cognitive Vulnerability to AI Social Engineering
+🌱 Learning              → AI/ML · Cybersecurity · Cloud · Next.js
+📍 Based in              → Sri Lanka
+```
 
 <br/>
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🚌 [Lankora](https://lankora-lk.vercel.app)
-Sri Lanka travel & transport platform — live bus routes across all 25 districts, AI travel assistant, 260+ places to explore, integrated booking for buses/trains/hotels.
-`React` `Node.js` `Groq AI` `Google Maps API`
+Sri Lanka travel & transport platform — live bus routes across all 25 districts, AI travel assistant, 260+ places, integrated booking (bus/train/hotel).
+<br/>`React` `Node.js` `Groq AI` `Google Maps`
+
+</td>
+<td width="50%">
 
 ### ⏳ [TimeBank](https://timebank-app.vercel.app)
-Sri Lanka's first time-exchange platform — trade skills for time credits instead of money. Real-time messaging, 8-language support, full trust & safety system.
-`React` `Node.js` `Express` `MongoDB`
+Sri Lanka's first time-exchange platform — trade skills for time credits. Real-time messaging, 8-language support, full trust & safety system.
+<br/>`React` `Node.js` `Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📸 [Lumora](https://lumora-orpin-tau.vercel.app)
-Education-focused social platform — "Learn in moments." Stories, real-time chat, content moderation, Cloudinary media handling.
-`React` `Firebase` `MongoDB` `Cloudinary`
+Education-focused social platform — "Learn in moments." Stories, real-time chat, content moderation.
+<br/>`React` `Firebase` `MongoDB` `Cloudinary`
+
+</td>
+<td width="50%">
 
 ### 🤖 [Multi-Agent Internship Finder AI](https://github.com/ihamjth11/internship-agent-ai)
-Python-based multi-agent system (Researcher, Matcher, Reporter agents) using Google Gemini API to find and match internships.
-`Python` `Gemini API` `Multi-Agent Systems`
+Python multi-agent system (Researcher, Matcher, Reporter) using Gemini API to find and match internships.
+<br/>`Python` `Gemini API` `Multi-Agent`
 
-### 🏙️ [LankaLens](https://github.com/ihamjth11)
-Civic issue reporting platform combining React, Flask, and AI-based image classification.
-`React` `Flask` `AI/ML`
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -50,14 +70,29 @@ Civic issue reporting platform combining React, Flask, and AI-based image classi
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
+<br/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ihamjth11&theme=dark&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -66,14 +101,22 @@ Civic issue reporting platform combining React, Flask, and AI-based image classi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihamjth11&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihamjth11&theme=radical&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ihamjth11&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihamjth11&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihamjth11&theme=dark&hide_border=true" width="60%" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-💬 Open to internships, freelance work, and full-stack opportunities
+💬 **Open to internships, freelance work, and full-stack opportunities**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 
 </div>
