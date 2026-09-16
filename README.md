@@ -1,8 +1,8 @@
 <div align="center">
 
-<br/>
+<img src="https://placehold.co/1200x250/0d0d0d/ffffff?text=MOHOMAD+HAMJATH&font=montserrat" width="100%" style="border-radius:8px"/>
 
-# MOHOMAD HAMJATH
+<br/><br/>
 
 ### Full-Stack Developer (MERN) · Building Real Products
 
