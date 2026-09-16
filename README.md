@@ -1,115 +1,44 @@
-<div align="center">
+<br/>
+
+# Mohomad Hamjath
+
+I build full-stack products for real-world problems, based in Sri Lanka — currently deepening into AI/ML and Cybersecurity.
+
+[LinkedIn](https://www.linkedin.com/in/hamjath11) · [Portfolio](https://hamjath-portfolio-seven.vercel.app) · [Email](mailto:m.hamjath11@gmail.com)
 
 <br/>
 
-# MOHOMAD HAMJATH
+## Selected Work
 
-### Full-Stack Developer (MERN) · Building Real Products
+**[Lankora](https://lankora-lk.vercel.app)** — Sri Lanka travel & transport platform. Live bus routes across all 25 districts, an AI travel assistant, and integrated booking for buses, trains, and hotels. Rebuilt solo from a simple tracker into a full product with real users.
 
-<img width="80" src="https://raw.githubusercontent.com/ihamjth11/ihamjth11/main/divider.svg" />
+**[TimeBank](https://timebank-app.vercel.app)** — Sri Lanka's first time-exchange platform. People trade skills for time credits instead of money — built with real-time messaging, 8-language support, and a full trust & safety system.
 
-<br/>
+**[Lumora](https://lumora-orpin-tau.vercel.app)** — Education-focused social platform, "Learn in moments." Stories, real-time chat, and content moderation, built on React and Firebase.
 
-<a href="https://www.linkedin.com/in/hamjath11"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
-<a href="https://hamjath-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="mailto:m.hamjath11@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
-
-<br/><br/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer (MERN)** who turns ideas into real, deployed products used by real people. Currently a Software Engineering undergrad, growing into **AI/ML Engineering**, **Cybersecurity**, and understanding the human side of tech through **Psychology & Neuroscience**.
-
-```text
-🔭 Currently building   → Multi-Agent AI System (Python + Gemini API)
-🔬 Researching           → South Asian Cognitive Vulnerability to AI Social Engineering
-🌱 Learning              → AI/ML · Cybersecurity · Cloud · Next.js
-📍 Based in              → Sri Lanka
-```
+**[Multi-Agent Internship Finder AI](https://github.com/ihamjth11/internship-agent-ai)** — A Python multi-agent system (Researcher, Matcher, Reporter agents) using the Gemini API to find and match internships.
 
 <br/>
 
-## 🚀 Featured Projects
+## Right Now
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚌 [Lankora](https://lankora-lk.vercel.app)
-Sri Lanka travel & transport platform — live bus routes across all 25 districts, AI travel assistant, 260+ places, integrated booking (bus/train/hotel).
-<br/>`React` `Node.js` `Groq AI` `Google Maps`
-
-</td>
-<td width="50%">
-
-### ⏳ [TimeBank](https://timebank-app.vercel.app)
-Sri Lanka's first time-exchange platform — trade skills for time credits. Real-time messaging, 8-language support, full trust & safety system.
-<br/>`React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📸 [Lumora](https://lumora-orpin-tau.vercel.app)
-Education-focused social platform — "Learn in moments." Stories, real-time chat, content moderation.
-<br/>`React` `Firebase` `MongoDB` `Cloudinary`
-
-</td>
-<td width="50%">
-
-### 🤖 [Multi-Agent Internship Finder AI](https://github.com/ihamjth11/internship-agent-ai)
-Python multi-agent system (Researcher, Matcher, Reporter) using Gemini API to find and match internships.
-<br/>`Python` `Gemini API` `Multi-Agent`
-
-</td>
-</tr>
-</table>
+Currently building a multi-agent AI system and researching **South Asian Cognitive Vulnerability to AI Social Engineering Attacks** — where my interests in AI, cybersecurity, and psychology meet.
 
 <br/>
 
-## 🛠️ Tech Stack
+## Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
-<br/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/ihamjth11?style=for-the-badge&color=000000&labelColor=000000" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&labelColor=000000&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fihamjth11" />
-<img src="https://komarev.com/ghpvc/?username=ihamjth11&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
-
-</div>
+**Frontend** — React, JavaScript, Tailwind
+**Backend** — Node.js, Express, MongoDB, Firebase
+**Learning** — Python, AI/ML, Cybersecurity, AWS/GCP/Azure
+**Tools** — Git, Figma, Docker
 
 <br/>
 
 ---
 
-<div align="center">
+<br/>
 
-💬 **Open to internships, freelance work, and full-stack opportunities**
+Open to internships, freelance work, and full-stack opportunities.
 
-</div>
+<br/>
